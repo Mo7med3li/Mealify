@@ -1,4 +1,4 @@
-First Responsuve Website with (display flex and pseudo classes :checked ,:target,::before , ::after ) and has dark mode and responsive navbar with out js 
+First Responsive Website with (display flex and pseudo classes :checked ,:target,::before , ::after ) and has dark mode and responsive navbar with out js 
 ![image](https://github.com/user-attachments/assets/d1e1b5b8-1fbf-4245-ab7e-f1adfc434c8c)
 ![image](https://github.com/user-attachments/assets/bd98630c-38c6-41e9-9497-a05a774f756d)
 ![image](https://github.com/user-attachments/assets/9f74679c-d321-4e50-b382-b56733e0b04a)
