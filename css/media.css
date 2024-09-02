@@ -1,0 +1,264 @@
+@media screen and (min-width: 640px) {
+  .container {
+    width: 83%;
+  }
+  .logo {
+    padding-left: 0;
+  }
+  .nav-container {
+    width: 83%;
+    margin: 0 auto;
+  }
+
+  .head-section {
+    margin: 95px auto;
+  }
+
+  form input,
+  textarea {
+    width: 95%;
+    margin-left: 0;
+  }
+
+  .subscribe-enter {
+    padding-right: 0;
+    margin-right: 0;
+  }
+  .subscribe-enter input {
+    width: 79%;
+    padding: 10px;
+  }
+  .subscribe-enter button {
+    width: 20%;
+    padding: 13px;
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .md-50 {
+    width: 50%;
+  }
+
+  .container {
+    width: 92%;
+  }
+  .nav-container {
+    width: 92%;
+  }
+
+  .head-img {
+    padding: 60px;
+  }
+  .chefs {
+    overflow: hidden;
+
+    flex-basis: 48%;
+    margin: 20px 0px;
+  }
+  .chefs-container {
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+  }
+
+  .chefs::before {
+    top: 56%;
+  }
+
+  .gallery-masonry {
+    columns: 2;
+    column-gap: 20px;
+  }
+  .gallery-images img {
+    object-fit: contain;
+  }
+
+  .details {
+    display: flex;
+
+    flex-wrap: wrap;
+  }
+  .address {
+    width: 49%;
+  }
+  .footer {
+    padding-block: 20px;
+  }
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .about {
+    width: 48%;
+    order: -2;
+  }
+  .subscripe-get {
+    padding-top: 20px;
+    order: -1;
+  }
+  .head-section h2 {
+    width: 59%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lg-33 {
+    width: 33%;
+  }
+
+  .container,
+  .nav-container {
+    width: 99%;
+  }
+
+  .head-img {
+    width: 50%;
+    float: right;
+  }
+  .head-section h2 {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .head-content {
+    width: 50%;
+    float: right;
+    padding: 50px 20px;
+    text-align: start;
+  }
+  .head-content p {
+    margin: 20px 0;
+  }
+
+  .chefs {
+    margin: 25px 0px;
+    flex-basis: 30%;
+  }
+  .chefs-container {
+    justify-content: space-around;
+  }
+
+  .over-lay {
+    right: -16%;
+  }
+  .chefs:hover .over-lay {
+    top: 60px;
+  }
+
+  .email,
+  .name {
+    width: 49%;
+  }
+  .name {
+    margin-right: 15px;
+  }
+
+  .gallery-masonry {
+    column-count: 3;
+    column-gap: 20px;
+  }
+  .gallery-images {
+    margin: 0;
+    display: inline-block;
+    margin-bottom: 0px;
+    width: 100%;
+  }
+
+  .subscribe-enter button {
+    width: 12%;
+  }
+  .subscribe-enter input {
+    width: 87%;
+  }
+
+  .table-btn {
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 0px;
+  }
+  .btns {
+    margin-top: -20px;
+    margin-left: -20px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .sections {
+    display: block;
+  }
+  .menu-icon {
+    display: none;
+  }
+  .container,
+  .nav-container {
+    width: 90%;
+  }
+
+  .menu-list:target {
+    display: none;
+  }
+  body:has(.menu-list:target) .body-overlay {
+    display: none;
+  }
+  body:has(.menu-list:target) .nav-bar {
+    background: #fff;
+  }
+
+  .head-img {
+    width: 45%;
+    float: right;
+
+    padding-left: 50px;
+  }
+  .head-content {
+    width: 40%;
+    float: left;
+    padding: 50px;
+    margin-top: 75px;
+  }
+  .head-content p {
+    margin: 0px 0;
+    line-height: 30px;
+  }
+
+  .chefs {
+    width: 32%;
+
+    margin: 25px 5px;
+  }
+
+  .subscribe {
+    width: 49%;
+    padding-block: 15px;
+  }
+  .about {
+    width: 23%;
+  }
+  .subscripe-get {
+    width: 26%;
+    order: 0;
+    padding-left: 10px;
+  }
+  .subscribe-enter button {
+    width: 20%;
+  }
+  .subscribe-enter input {
+    width: 78%;
+  }
+  .subscribe-links ul {
+    justify-content: space-between;
+  }
+  .subscribe-links ul li {
+    margin: 0;
+  }
+}
+@media screen and (min-width: 1530px) {
+  .nav-container,
+  .container {
+    width: 85%;
+  }
+}
