@@ -19,8 +19,14 @@ Responsuve
 ![image](https://github.com/user-attachments/assets/75cd4dc8-68d6-45c5-8632-68f6c3b5c5b5)
 ![image](https://github.com/user-attachments/assets/1bcfcf43-35e7-4c94-b53c-38986d413a18)
 video
+
 https://github.com/user-attachments/assets/45ce1dd9-dc77-4c29-a318-97b2cdf58efa
+
 darkmode-video
+
 https://github.com/user-attachments/assets/78f35450-be02-4e8c-9d83-581731146769
+
 responsive video
+
 https://github.com/user-attachments/assets/77c3f9af-d18a-4d86-bed9-223b569f9fdf
+
